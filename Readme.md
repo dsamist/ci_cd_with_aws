@@ -28,7 +28,7 @@ This section involves the process of deploying the application to beanstalk:
 
 2. From the console, click on creat application, this is an orange button at the top right of the page [image](./screenshots/EB-home.png)
 
-3. Fill in the required details on the naex page like the application name, the enviroment type is a web server, because this is a nodejs application, the platform to also use is nodejs. Select the source of your application code, there are two options there, however, for the sake of this tutorial, we will be sticking with sample application because we are using our application code from a git repository. The other option allows you to upload code from your computer or from an amazon storage (s3) [image](./screenshots/details1.pngdetails1.png) ![image](./screenshots/details2.png) ![image](details3.png)
+3. Fill in the required details on the naex page like the application name, the enviroment type is a web server, because this is a nodejs application, the platform to also use is nodejs. Select the source of your application code, there are two options there, however, for the sake of this tutorial, we will be sticking with sample application because we are using our application code from a git repository. The other option allows you to upload code from your computer or from an amazon storage (s3) [image](./screenshots/details1.pngdetails1.png) ![image](./screenshots/details2.png) ![image](./screenshots/details3.png)
 
 4. On the next page, create a new service role, if none is available for use.  Skip to review and submit.
 
